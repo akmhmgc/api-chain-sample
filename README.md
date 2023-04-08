@@ -55,3 +55,5 @@ http://127.0.0.1:8000/?time=morning&country=de
 
 > Finished chain.
 ```
+
+質問内容に合わせて適切にAPIエンドポイントを叩いてくれていることがわかります🎉
